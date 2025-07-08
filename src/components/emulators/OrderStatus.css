@@ -1,0 +1,36 @@
+/* src/components/OrderStatus.css */
+.order-status {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2, h3 {
+    color: #555;
+}
+
+.product-info {
+    margin: 20px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.status-item {
+    margin: 5px 0;
+    color: #4caf50; /* Green color for completed status */
+}
+
+.checkmark {
+    margin-right: 8px;
+}

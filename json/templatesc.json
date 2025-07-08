@@ -1,0 +1,232 @@
+{
+  "amazon": {
+    "displayName": "Amazon",
+    "attr": {
+      "image_link": "url",
+      "price": "number",
+      "currency": "icon",
+      "name": "string",
+      "product_name": "string",
+      "city":"string",
+      "state":"string",
+      "arrival_date": "date"
+    }
+  },
+  "balenciaga": {
+    "displayName": "Balenciaga",
+    "attr": {
+      "image_link": "url",
+      "product_name": "string",
+      "price": "number",
+      "color": "string",
+      "currency": "icon",
+      "shipping_cost": "number",
+      "name": "string",
+      "shipping_address": "string",
+      "billing_address": "string"
+    }
+  },
+  "bape": {
+    "displayName": "Bape",
+    "attr": {
+      "image_link": "url",
+      "product_name": "string",
+      "price": "number",
+      "currency": "icon",
+      "shipping_cost": "number",
+      "tax": "number",
+      "name": "string",
+      "color": "string",
+      "product_size": "string",
+      "shipping_address": "string",
+      "billing_address": "string"
+    }
+  },
+  "dior": {
+    "displayName": "Dior",
+    "attr": {
+      "product_name": "string",
+      "image_link": "url",
+      "price": "number",
+      "tax": "number",
+      "currency": "icon",
+      "name": "string",
+      "shipping_address": "string",
+      "billing_address": "string"
+    }
+  },
+  "dyson": {
+    "displayName": "Dyson",
+    "attr": {
+      "product_name": "string",
+      "image_link": "url",
+      "price": "number",
+      "vat": "number",
+      "shipping_cost": "number",
+      "currency": "icon",
+      "name": "string",
+      "shipping_address": "string",
+      "billing_address": "string"
+    }
+  },
+  "ebay": {
+    "displayName": "Ebay",
+    "attr": {
+      "seller_name": "string",
+      "product_reference": "string",
+      "image_link": "url",
+      "price": "number",
+      "currency": "icon",
+      "name": "string",
+      "product_name": "string",
+      "shipping_cost": "string",
+      "shipping_address": "string",
+      "date-of-delivery": "date"
+    }
+  },
+  "farfetch": {
+    "displayName": "Farfetch",
+    "attr": {
+      "image_link": "url",
+      "product_name": "string",
+      "brand": "string",
+      "price": "number",
+      "currency": "icon",
+      "shipping_cost": "number",
+      "name": "string",
+      "product_size": "string",
+      "date-of-expected-delivery": "date",
+      "shipping_address": "string"
+    }
+  },
+  "goat": {
+    "displayName": "Goat",
+    "attr": {
+      "image_link": "url",
+      "product_name": "string",
+      "brand": "string",
+      "price": "number",
+      "currency": "icon",
+      "shipping_cost": "number",
+      "name": "string",
+      "product_size": "string",
+      "condition": "string",
+      "shipping_address": "string"
+    }
+  },
+  "grail-point": {
+    "displayName": "Grail Point",
+    "attr": {
+      "image_link": "url",
+      "product_name": "string",
+      "price": "number",
+      "tax": "number",
+      "currency": "icon",
+      "name": "string",
+      "shipping_address": "string",
+      "billing_address": "string",
+      "date-of-orded": "date"
+    }
+  },
+  "grailed": {
+    "displayName": "Grailed",
+    "attr": {
+      "image_link": "url",
+      "product_brand": "string",
+      "price": "number",
+      "tax": "number",
+      "currency": "icon",
+      "name": "string",
+      "brand": "string",
+      "product_name": "string",
+      "product_size": "string",
+      "shipping_address": "string",
+      "seller_country": "string"
+    }
+  },
+  "louis-vuitton": {
+    "displayName": "Louis Vuitton",
+    "attr": {
+      "image_link": "url",
+      "price": "number",
+      "product_name": "string",
+      "product_type": "string",
+      "currency": "icon",
+      "name": "string",
+      "shipping_address": "string",
+      "billing_address": "string"
+    }
+  },
+  "moncler": {
+    "displayName": "Moncler",
+    "attr": {
+      "image_link": "url",
+      "price": "number",
+      "currency": "icon",
+      "name": "string",
+      "product_name": "string",
+      "product_size": "string",
+      "color": "string",
+      "date-of-delivery": "date",
+      "date-of-orded": "date",
+      "shipping_address": "string"
+    }
+  },
+  "nike": {
+    "displayName": "Nike",
+    "attr": {
+      "image_link": "url",
+      "price": "number",
+      "currency": "icon",
+      "shipping_cost": "number",
+      "tax": "number",
+      "name": "string",
+      "product_name": "string",
+      "product_size": "string",
+      "date-of-delivery": "date",
+      "date-of-orded": "date",
+      "shipping_address": "string"
+    }
+  },
+  "off-white": {
+    "displayName": "Off White",
+    "attr": {
+      "image_link": "url",
+      "price": "number",
+      "currency": "icon",
+      "name": "string",
+      "product_name": "string",
+      "shipping_cost": "number"
+    }
+  },
+  "prada": {
+    "displayName": "Prada",
+    "attr": {
+      "image_link": "url",
+      "product_name": "string",
+      "price": "number",
+      "tax": "number",
+      "product_code": "string",
+      "currency": "icon",
+      "shipping_cost": "number",
+      "color": "string",
+      "name": "string",
+      "product_size": "string",
+      "shipping_address": "string"
+    }
+  },
+  "supreme": {
+    "displayName": "Supreme",
+    "attr": {
+      "product_name": "string",
+      "price": "number",
+      "shipping_cost": "number",
+      "vat": "number",
+      "currency": "icon",
+      "product_style": "string",
+      "date-of-orded": "date",
+      "product_size": "string",
+      "name": "string"
+    }
+  }
+}
